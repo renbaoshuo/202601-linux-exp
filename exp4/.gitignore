@@ -1,0 +1,5 @@
+/build/
+/server.log
+/.fucode-server/
+/.fucode/
+*.gguf

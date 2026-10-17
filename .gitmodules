@@ -1,0 +1,8 @@
+[submodule "exp4/third_party/llama.cpp"]
+	path = exp4/third_party/llama.cpp
+	url = https://github.com/ggml-org/llama.cpp.git
+	shallow = true
+[submodule "exp4/third_party/curl"]
+	path = exp4/third_party/curl
+	url = https://github.com/curl/curl.git
+	shallow = true
